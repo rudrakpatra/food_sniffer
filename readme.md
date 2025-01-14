@@ -41,3 +41,16 @@ https://photos.google.com/share/AF1QipNmCkRaLxEBFU353et_EHWdmkOscCmXNWpKBbBQcAvH
 
 ### Clustering code on google colab
 https://colab.research.google.com/drive/1V84bBM3mdf7Rae6zHsv8n_Vb594Yz0mb?usp=sharing
+
+# PLANS for FOOD LABELS to Collect
+
+### 1. Based on Sodium and other salts
+Sodium content is an important metric for proper nutrition
+### 2. Based on Sugar
+Sugar is different from carbs
+### 3. Browning and Doneness Level
+Can we detect browning and doneness level?
+### 4. Baked Foods
+Baked Items along with boiling ,frying
+### 5. Compound Foods vs Isolated Foods
+Are Compound Foods Items a superimposition of their ingredients Foods?
