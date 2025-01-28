@@ -18,7 +18,6 @@ const path = require('path');
         "https://www.anuvaad.org.in/nutrition-fact/salami/",
         "https://www.anuvaad.org.in/nutrition-fact/chicken-salad/",
         "https://www.anuvaad.org.in/nutrition-fact/pasta-white-dried-raw/",
-        "https://www.anuvaad.org.in/nutrition-fact/pasta-white-dried-raw/",
         "https://www.anuvaad.org.in/nutrition-fact/pasta-salad/",
         "https://www.anuvaad.org.in/nutrition-fact/home-made-plain-noodles/",
         "https://www.anuvaad.org.in/nutrition-fact/raw-mango-chutney-kachhe-aam-kairi-ki-chutney/",
@@ -47,6 +46,9 @@ const path = require('path');
         "https://www.anuvaad.org.in/nutrition-fact/chillies-green-all-varieties-capsicum-annum/",
         "https://www.anuvaad.org.in/nutrition-fact/pitted-black-olives/",
         "https://www.anuvaad.org.in/nutrition-fact/oil-olive/",
+        "https://www.anuvaad.org.in/nutrition-fact/oil-mustard/",
+        "https://www.anuvaad.org.in/nutrition-fact/oil-coconut/",
+        "https://www.anuvaad.org.in/nutrition-fact/oil-sunflower/",
         "https://www.anuvaad.org.in/nutrition-fact/butter-salted/",
         "https://www.anuvaad.org.in/nutrition-fact/butter-unsalted/",
         "https://www.anuvaad.org.in/nutrition-fact/ghee-butter/",
@@ -89,8 +91,19 @@ const path = require('path');
         "https://www.anuvaad.org.in/nutrition-fact/bread-brown-toasted/",
         "https://www.anuvaad.org.in/nutrition-fact/bread-white-average/",
         "https://www.anuvaad.org.in/nutrition-fact/caramel-custard-baked/",
-
-
+        "https://www.anuvaad.org.in/nutrition-fact/whey-soup/",
+        "https://www.anuvaad.org.in/nutrition-fact/chicken-sweet-corn-soup/",
+        "https://www.anuvaad.org.in/nutrition-fact/clear-tomato-soup-tamatar-ka-soup/",
+        "https://www.anuvaad.org.in/nutrition-fact/cream-of-broccoli-soup/",
+        "https://www.anuvaad.org.in/nutrition-fact/cream-of-spinach-soup/",
+        "https://www.anuvaad.org.in/nutrition-fact/hot-and-sour-soup/",
+        "https://www.anuvaad.org.in/nutrition-fact/chicken-stock/",
+        "https://www.anuvaad.org.in/nutrition-fact/mixed-stock/",
+        "https://www.anuvaad.org.in/nutrition-fact/vegetable-stock/",
+        "https://www.anuvaad.org.in/nutrition-fact/sour-cream-regular/",
+        "https://www.anuvaad.org.in/nutrition-fact/curd-dip/",
+        "https://www.anuvaad.org.in/nutrition-fact/curds-cows-milk/",
+        "https://www.anuvaad.org.in/nutrition-fact/honey/",
         // Add more URLs here
     ];
     const outputFile = path.join(__dirname, 'nutrition_bot.csv');
